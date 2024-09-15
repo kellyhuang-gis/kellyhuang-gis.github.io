@@ -10,7 +10,7 @@ last_name: Huang
 superuser: true
 
 # Role/position
-role: Postgraduate student in GIS
+role: an MS student in GIS
 
 # Organizations/Affiliations
 organizations:
@@ -39,9 +39,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:huangjing@whu.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HuangJ8076
@@ -55,7 +52,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'huangjing@whu.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -66,4 +63,4 @@ user_groups:
   - Researchers
 ---
 
-Kelly HUANG is currently a master's student majoring in Cartography and Geographic Information System at Wuhan University. Her research interests include Urban Computing and Social Sensing, GIScience, Human-centered Geospatial computing, GeoAI, Urban Visual Intelligence. 
+Kelly HUANG is currently an MS student student majoring in Cartography and Geographic Information System at Wuhan University. Her research interests include Urban Computing and Social Sensing, GIScience, Human-centered Geospatial computing, GeoAI, Urban Visual Intelligence. 
