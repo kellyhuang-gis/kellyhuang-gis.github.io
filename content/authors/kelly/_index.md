@@ -10,7 +10,7 @@ last_name: Huang
 superuser: true
 
 # Role/position
-role: an MS student in GIS
+role: Postgraduate student in GIS
 
 # Organizations/Affiliations
 organizations:
