@@ -1,41 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: kelly Huang
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: kelly
+last_name: Huang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgraduate student in GIS
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Wuhan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Urban Computing and Social Sensing, GIScience, Human-centered Geospatial computing, GeoAI, Urban Visual Intelligence.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - GIScience
+  - Urban Computing and Social Sensing
+  - Urban Visual Intelligence
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MS in Cartography and Geographic Information System
+      institution: Wuhan University
+      year: 2022
+    - course: BS in Geographic Information Science
+      institution: Sichuan Agricultural University
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +41,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'huangjing@whu.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/HuangJ8076
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kellyhuang-gis
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,6 +66,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Kelly HUANG is currently a master’s student majoring in Cartography and Geographic Information System at Wuhan University. Her research interests include Urban Computing and Social Sensing, GIScience, Human-centered Geospatial computing, GeoAI, Urban Visual Intelligence. 
