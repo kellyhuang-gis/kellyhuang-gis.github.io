@@ -60,7 +60,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Co-Principal Investigators
 ---
 
 Kelly HUANG is currently an MS student majoring in Cartography and Geographic Information System at Wuhan University. Her research interests include Urban Computing and Social Sensing, GIScience, Human-centered Geospatial computing, GeoAI, Urban Visual Intelligence. 
