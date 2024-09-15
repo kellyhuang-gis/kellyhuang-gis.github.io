@@ -8,14 +8,16 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        Dickens
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Dickens Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice.
+        The **Dickens Research Group** is a self-organized collective of curious individuals dedicated to discovering, exploring, and making the world a better place.
+
+        It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.
   
   - block: collection
     content:
