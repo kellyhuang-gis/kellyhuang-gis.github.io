@@ -11,7 +11,7 @@ sections:
         Dickens
         Research Group
       image:
-        filename: welcome.jpg
+        filename: welcomepage.jpg
       text: |
         <br>
         
