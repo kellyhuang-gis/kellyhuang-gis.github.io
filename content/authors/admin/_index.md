@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'huangjing@whu.edu.cn'
+    link: 'mailto:huangjing@whu.edu.cn'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HuangJ8076
@@ -66,4 +66,4 @@ user_groups:
   - Researchers
 ---
 
-Kelly HUANG is currently a master’s student majoring in Cartography and Geographic Information System at Wuhan University. Her research interests include Urban Computing and Social Sensing, GIScience, Human-centered Geospatial computing, GeoAI, Urban Visual Intelligence. 
+Kelly HUANG is currently a master's student majoring in Cartography and Geographic Information System at Wuhan University. Her research interests include Urban Computing and Social Sensing, GIScience, Human-centered Geospatial computing, GeoAI, Urban Visual Intelligence. 
