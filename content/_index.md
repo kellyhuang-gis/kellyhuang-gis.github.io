@@ -17,7 +17,7 @@ sections:
         
         The **Dickens Research Group** is a self-organized collective of curious individuals dedicated to discovering, exploring, and making the world a better place.
 
-        <small style="line-height: 0.6;">"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair."</small>
+        <small style="line-height: 0.4;">"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair."</small>
   
   - block: collection
     content:
@@ -51,12 +51,16 @@ sections:
           filters:
             brightness: 1
           parallax: false
-          position: center
-          size: cover
+          position: top
+          size: contain
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+      css_class: fullscreen large-container
+      css: |
+        .large-container {
+          height: 100vh; /* 视口高度 */
+        }
 
   - block: collection
     content:
