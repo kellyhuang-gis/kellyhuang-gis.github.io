@@ -8,13 +8,13 @@ last_name: Gang
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - GangGang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postgraduate student in Computer Science
 
 # Organizations/Affiliations
 organizations:
